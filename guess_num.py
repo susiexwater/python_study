@@ -3,7 +3,7 @@ import random
 ## 
 
 print('猜数字游戏')
-n = random.randint(0,100)
+n = random.randint(0,10)
 
 while True:
     ni =int(input('请输入要猜的数字： '))
