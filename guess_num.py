@@ -1,6 +1,6 @@
 import random
 
-## test
+## 
 
 print('猜数字游戏')
 n = random.randint(0,100)
